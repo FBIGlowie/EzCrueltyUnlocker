@@ -1,5 +1,5 @@
 # EzCrueltyUnlocker
-This super easy to use tool allows you to get all guns, fish, implants, levels, gamemodes and change the amount of stock and money you have.
+This super easy to use tool allows you to get all guns, fish, implants, levels, life/death, gamemodes and change the amount of stock and money you have.
 ### Help Command
 ```
 Edits save files for you to unlock everything
