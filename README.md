@@ -22,5 +22,5 @@ Options:
 ```
 # Installation
 I am sorry brother you have to compile it yourself if you are on Windows and Darwin.
-Linux executable in releases!.
+## Linux executable in releases!.
 
